@@ -1,0 +1,13 @@
+CSF_Function,CSF_Category,CSF_ID,CSF_Name,Description
+Govern,GV.RM,GV.RM-01,Risk Management Strategy,Define and communicate the organization’s risk management strategy.
+Govern,GV.RR,GV.RR-01,Roles and Responsibilities,Assign and communicate cybersecurity roles and responsibilities.
+Identify,ID.AM,ID.AM-01,Asset Management,Physical and software assets are inventoried.
+Identify,ID.GV,ID.GV-01,Governance,"Policies, processes, and procedures are established and communicated."
+Protect,PR.AC,PR.AC-01,Access Control,Identities and credentials are managed for authorized devices and users.
+Protect,PR.DS,PR.DS-01,Data Security,Data-at-rest and data-in-transit are protected.
+Detect,DE.AE,DE.AE-01,Anomalies and Events,Anomalous activity is detected and analyzed.
+Detect,DE.CM,DE.CM-01,Security Continuous Monitoring,The network is monitored to detect potential cybersecurity events.
+Respond,RS.RP,RS.RP-01,Response Planning,Response processes are executed during and after an incident.
+Respond,RS.MI,RS.MI-01,Mitigation,Activities are performed to prevent expansion of an event and to resolve the incident.
+Recover,RC.RP,RC.RP-01,Recovery Planning,Recovery processes are executed and maintained to restore systems or assets.
+Recover,RC.CO,RC.CO-01,Communications,Public relations and reputation are managed during and after an incident.
